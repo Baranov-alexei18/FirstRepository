@@ -3,3 +3,4 @@ Some other line
 12345
 Hello world
 Line from user2
+Another line from user2
